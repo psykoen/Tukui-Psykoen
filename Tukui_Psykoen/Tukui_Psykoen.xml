@@ -1,0 +1,26 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	
+	<Script file="config\config.lua"/>
+	<Script file="config\profiles.lua"/>
+	<Script file="medias\medias.lua"/>
+	<Script file="core\launch.lua"/>
+	<Script file="core\functions.lua"/>
+	<Script file="modules\unitframes\layouts\tukui.lua"/>
+	<Script file="modules\unitframes\layouts\psykoen.lua"/>
+	<Script file="modules\panels\panels.lua"/>
+	<Script file="modules\maps\minimap.lua"/>
+	<Script file="modules\buffs\buffs.lua"/>
+	<Script file="modules\datatext\crit.lua"/>
+	<Script file="modules\datatext\fps.lua"/>
+	<Script file="modules\datatext\friend.lua"/>
+	<Script file="modules\datatext\guild.lua"/>
+	<Script file="modules\datatext\haste.lua"/>
+	<Script file="modules\datatext\system.lua"/>
+	<Script file="modules\datatext\power.lua"/>
+	<Script file="modules\datatext\time.lua"/>
+	<Script file="modules\datatext\hit.lua"/>
+	<Script file="modules\datatext\mastery.lua"/>
+	<Script file="modules\datatext\regen.lua"/>
+	<Script file="modules\actionbars\BarShift.lua"/>
+	
+</Ui>
