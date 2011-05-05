@@ -1,6 +1,6 @@
 local T, C, L = unpack(Tukui)
 
-psykoen_welcome = "Welcome to |cffC495DDTukui|r Psykoen edit, version 3 "
+psykoen_welcome = "Welcome to |cffC495DDTukui|r Psykoen edit, version e3.1 A "
 psykoen_welcome2 = "Welcome to |cffC495DDTukui|r, version "
 
 ------------------------------------------------------------------------
